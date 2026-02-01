@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GamerJig</h1>
 <h3 align="center">Just a Chill Dev</h3>
 
-- 🔭 I’m currently working on **Learning**
+- 🔭 I’m currently working on **Javascript**
 
 - 🌱 I’m currently learning **Frameworks, Langages**
 
